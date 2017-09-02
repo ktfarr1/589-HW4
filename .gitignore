@@ -1,0 +1,6 @@
+*.pyc
+/*.npy
+*.zip
+*.png
+'.Submission/Figures/test waveforms/*'
+*.pdf
